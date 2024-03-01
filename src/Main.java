@@ -63,7 +63,7 @@ public class Main {
                 System.out.println("Bir işlem seç: ");
                 select =scan.nextInt();
                 scan.nextInt();
-                if(select==0){break;
+                if(select==8){break;
                 }
             }
             System.out.print("ilk sayı : ");
